@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maheengu1/textutlitis-React/static/css/main.073c9b0a.css",
+    "main.js": "/maheengu1/textutlitis-React/static/js/main.b6ef465e.js",
+    "static/js/787.7f320c1d.chunk.js": "/maheengu1/textutlitis-React/static/js/787.7f320c1d.chunk.js",
+    "index.html": "/maheengu1/textutlitis-React/index.html",
+    "main.073c9b0a.css.map": "/maheengu1/textutlitis-React/static/css/main.073c9b0a.css.map",
+    "main.b6ef465e.js.map": "/maheengu1/textutlitis-React/static/js/main.b6ef465e.js.map",
+    "787.7f320c1d.chunk.js.map": "/maheengu1/textutlitis-React/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6ef465e.js"
+  ]
+}
